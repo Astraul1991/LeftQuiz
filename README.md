@@ -1,2 +1,1 @@
-# PoliticalQuiz
-A political test
+Premi sul "Leftvalues" per iniziare il test!
