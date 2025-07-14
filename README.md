@@ -1,2 +1,2 @@
-# LeftQuiz
+# PoliticalQuiz
 A political test
