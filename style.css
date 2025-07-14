@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.question-block {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="range"] {
+  width: 100%;
+}
